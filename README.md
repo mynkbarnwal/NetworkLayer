@@ -24,6 +24,6 @@ Dependency Injection: Simplifies testing and decouples components.<br />
 
 
 **Clone the Repository**<br />
-git clone https://github.com/yourusername/network-layer-mvvm-ssl-pinning.git<br />
+git clone git@github.com:mynkbarnwal/NetworkLayer.git<br />
 cd network-layer-mvvm-ssl-pinning
 
