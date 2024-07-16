@@ -22,3 +22,9 @@ Network Layer: Handles API requests and responses efficiently.
 SSL Pinning: Enhances security by verifying server certificates.
 Error Handling: Comprehensive error handling for network requests.
 Dependency Injection: Simplifies testing and decouples components.
+
+
+Clone the Repository
+git clone https://github.com/yourusername/network-layer-mvvm-ssl-pinning.git
+cd network-layer-mvvm-ssl-pinning
+
