@@ -1,15 +1,5 @@
 Network Layer Project - MVVM Architecture with SSL Pinning
 
-Table of Contents
-
-Introduction
-Architecture
-Features
-Setup and Installation
-Usage
-Folder Structure
-Contributing
-License
 Introduction
 
 This project provides a robust network layer using the Model-View-ViewModel (MVVM) architecture pattern, with an emphasis on security through SSL Pinning. It aims to facilitate secure network communication and separation of concerns in your application.
